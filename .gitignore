@@ -1,0 +1,23 @@
+# 编译输出
+target/
+build/
+
+# IDE 配置
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# 日志和临时文件
+*.log
+temp/
+
+# 环境特定配置
+application-dev.properties
+application-prod.properties
+
+# 敏感信息
+secrets/
+credentials/
